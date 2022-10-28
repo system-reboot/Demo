@@ -94,7 +94,7 @@ const Service = () => {
   There was a simple counterattack that James could use and the game should be his. 
    He began deploying it with the confidence of a veteran player who had been in this situation a thousand times in the past.
    <br></br> 
- You should have come to Second, Johnny.</h1>
+ You should have come Second, Johnny.</h1>
   </div>
       </Fragment>
   );
