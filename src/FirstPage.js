@@ -21,7 +21,7 @@ const First = () => {
               <Link to="#">About</Link>
             </li>
             <li>
-              <Link to="#">Services</Link>
+              <Link to="#">Service</Link>
             </li>
             <li>
               <Link to="#">Contact Us</Link>
