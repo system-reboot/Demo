@@ -11,7 +11,7 @@ const First = () => {
       <div className="hero">
         <nav>
           <h2 className="logo">
-            <span>asus</span>
+            <span>Pegasus</span>
           </h2>
           <ul>
             <li>
@@ -34,7 +34,7 @@ const First = () => {
         <div className="content">
           <h4>Welcome to</h4>
           <h1>
-            Peg<span>asus</span>
+            <span>Pegasus</span>
           </h1>
           <h3>New era of Security!</h3>
         </div>
