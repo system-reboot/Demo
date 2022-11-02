@@ -90,11 +90,9 @@ const Service = () => {
       </footer>
       {/*  */}
       <div className="yes"> 
- <h1>Ok cool!! There were a variety of ways to win the game. James had played it long enough to know most of them and he could see what his opponent was trying to do.
-  There was a simple counterattack that James could use and the game should be his. 
-   He began deploying it with the confidence of a veteran player who had been in this situation a thousand times in the past.
+ <h1>rb1kT97FlGQZ571mFhPAR/6FSekAPQpOp9lesWiMcSDalSaS3BFgxoBGBWXRF8ZmNQqVFeEXfLbyeYj0K+5uS/IdeSUXJ7SDX162qMbebhAPubq0ejwh+qD+Z5dxK4oAJtWLy52YFjMaESZhKr9rgZdWXYJOzXVdz3sz5mNICsu3CYIpNqV//Y8jOo7x2QV5yxNCcoyroVX3GA8BwF4TJvOjO/mEq5oNuoaNc4QB1hqSibfsWt3kllrYNE4PlcjhYIyON1GR66EyRJu+Wlsa/2rzwIKRy/n+EssmKR1XZZmYHUVY86Kn6Aai6YaK3Op+dgNb5lPh8oJJKCKjZC8WrRmuvDwTdBr8QTslDQen92RupyAS7oYtvYr/ITf+B/YelLlyzDnmk3QSWdyebUfneW48VL6+LTC2Nz8WnyRk6s53bDhN84rn6Ceycd9ooPOM8bX1vdbsd2ALwpJGfGfmLMR5/aNNn4hkWG6NrEqx+MX3UXqsNCpUKZDL8uLWGgtmKFbgcasYLQwFSLDDwobiH3LbsvNxs58/fUd2YRG2XJCSezw9dMb8olDZnD8PBoaui7jv8WtuctoR8IAKDua80w==
    <br></br> 
- You should have come Second, Johnny.</h1>
+ BhPj9K/tP+EZG0TSzL71ESVZ0fI/6wtqWjsdPefyohPd5QE49Px7BNQFX49pCQvwg5Cz0XcHcPR7r5ABErOPO4cyGiMkXQarr4UnzEecn+jM7xtGBHSix8yGuIgbXXQMcrzT2q8yzN8y7Me2AYG5I+0EU1OO+iE19DvdENyr7vo=</h1>
   </div>
       </Fragment>
   );
